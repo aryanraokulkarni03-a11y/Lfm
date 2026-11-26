@@ -1,0 +1,11 @@
+/target/
+.idea/
+*.iml
+*.log
+/archive/
+/Plus_Jakarta_Sans/
+/report/
+/output/
+/tmp/
+/CSE213_Project_Report_Template_final.docx
+/CSE213_Project_Report_Template_final.pdf
